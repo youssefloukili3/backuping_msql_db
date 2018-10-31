@@ -1,5 +1,5 @@
 @echo off
-
+:: veuillez saisir le login et le mot de passe de votre base de donnée dans les variables dbUser et dbPassword
  set dbUser="root"
  set dbPassword=""
  set backupDir="C:\Users\root\Documents\testbackup"
